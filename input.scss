@@ -1,5 +1,9 @@
 $first_color:#41B6E2;
 $second_color:#F97824;
+* {
+    margin:0;
+    padding:0;
+    }
 
 
 body{
@@ -9,7 +13,7 @@ body{
     section{
         width: 1020px;
         margin-top: 50px;
-        margin-left: calc(50% - 510px);
+        margin: 50px auto;
         
 
         div{
